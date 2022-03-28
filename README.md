@@ -3,12 +3,6 @@
 
   ## Description 
   Email Campaign example for Shane Co's Diamond Birthstones. 
-
-  ## Table of Contents 
-* [Usage](#Usage)
-* [License](#License)
-* [Contributing](#Contributing)
-* [Questions](#Questions)
   
   ## Liscense
   This application is covered under the GNU_AGPLv3.
